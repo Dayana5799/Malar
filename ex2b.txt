@@ -1,0 +1,16 @@
+</php
+$number=array(100,205,345,465,564,676,777,869,999);
+$largest=$numbers[0];
+$sammlest=$numbers[0];
+for each($numbers as $numbers)
+{
+if($numbers>$largest)
+{
+$largest=$numbers;
+{
+$smallest=$numbers;
+}
+}
+echo"The largest number is :".$largest."<br)";
+echo"The smallest number is :".$smallest;
+?>
